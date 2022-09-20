@@ -1,0 +1,7 @@
+Sub ChangeFormat()
+Range("C:C").NumberFormat="@"
+End Sub
+
+Sub ChangeFormatD()
+Range("D:D").NumberFormat="@"
+End Sub
